@@ -1,0 +1,10 @@
+127.0.0.1		resin1.beans.leopard.yy.com
+127.0.0.1		resin2.beans.leopard.yy.com
+127.0.0.1		resin3.beans.leopard.yy.com
+
+127.0.0.1		beans.leopard.yy.com
+127.0.0.1		beans.beans.leopard.yy.com
+127.0.0.1		beans.mysql.beans.leopard.yy.com
+127.0.0.1		session.beans.leopard.yy.com
+
+127.0.0.1		beans.redis.beans.leopard.yy.com
